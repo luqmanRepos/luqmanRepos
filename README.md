@@ -1,6 +1,6 @@
 Hello there👋, I'm Luqman, specializing in 𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗮𝗻𝗱 𝗱𝗮𝘁𝗮 𝗮𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀. I deploy advanced machine learning techniques into data science and analytics to drive insights and actionable decisions. My expertise spans front-end frameworks, back-end infrastructures, and database management, ensuring seamless data flow. 
 
-More importantly, I design and implement scalable solutions that leverage big data using machine learning algorithms to analyse vast datasets, uncover patterns, and make predictions. This includes supervised and unsupervised learning, deep learning, natural language processing, and prompt engineering to optimize model performance and user interactions.
+More importantly, I design and implement scalable solutions that leverage big data using machine learning algorithms to analyse vast datasets, uncover patterns, and make predictions. These include supervised and unsupervised learning, deep learning, natural language processing, and prompt engineering to optimize model performance and user interactions.
 
 ## 🚀 About Me
 ✍️ 𝗜'𝗺 𝗮𝗱𝗲𝗽𝘁 𝗮𝘁 𝘂𝘀𝗶𝗻𝗴:
